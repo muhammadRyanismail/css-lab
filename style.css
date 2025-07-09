@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+h1 {
+  color: navy;
+  text-align: center;
+}
+
+.highlight {
+  color: green;
+  font-size: 18px;
+}
+
+#clickMe {
+  background-color: dodgerblue;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+#clickMe:hover {
+  background-color: royalblue;
+}
